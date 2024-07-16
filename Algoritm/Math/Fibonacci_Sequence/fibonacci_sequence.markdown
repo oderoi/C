@@ -20,4 +20,6 @@ for $n > 1.$
 ![Fibonacci Spiral](images/Fibonacci_Spiral.svg.png)
 $Fibonacci Spiral$
 
+$Code$
+
 ![Fibonacci Sequence Code in C](images/fibonacci.png)
