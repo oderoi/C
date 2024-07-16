@@ -7,7 +7,7 @@ excerpt: "Matrix multiplication using C programming"
 categories:  Algorithms using C
 ---
 
-#Matrix Multiplication in C
+# Matrix Multiplication in C
 
 Given two matrices A of dimensions M x K and B of dimension K x N, we want to compute their dot product C = A . B, 
 which is also known as matrix multiplication.
