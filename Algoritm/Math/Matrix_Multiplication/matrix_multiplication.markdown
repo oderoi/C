@@ -1,10 +1,8 @@
 ---
-layout: post
-comments: true
 title:  "Matrix multiplication in C"
 date:   2024-07-16
 excerpt: "Matrix multiplication using C programming"
-categories:  Algorithms using C
+categories:  Math Algorithms using C
 ---
 
 # Matrix Multiplication in C
