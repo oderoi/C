@@ -17,7 +17,7 @@ $f_{n} = F_{n - 1}  +   F_{n - 2}$
 
 for $n > 1.$
 
-![Fibonacci_Spiral]([/Fibonacci_Sequence/Fibonacci_Spiral.svg.png](https://github.com/oderoi/C/Algoritm/Math/Fibonacci_Sequence/Fibonacci_Spiral.svg.png))
+![Fibonacci_Spiral]([/Fibonacci_Sequence/Fibonacci_Spiral.svg.png](https://github.com/oderoi/C/Algoritm/Math/Fibonacci_Sequence/Fibonacci_Spiral.svg.png "figure"))
 $Fibonacci Spiral$
 
 
