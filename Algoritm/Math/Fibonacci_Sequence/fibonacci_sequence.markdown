@@ -1,3 +1,11 @@
+---
+title:  "Fibonacci Sequence in C"
+date:   2024-07-16
+excerpt: "Finding Fibonacci Sequence using C programming"
+categories:  Math Algorithms using C
+---
+
+
 # Fibonacci Sequence in C
 
 Fibonacci Sequence is a sequence in which each number is the sum of the two preceding ones.
