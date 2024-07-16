@@ -21,4 +21,4 @@ for $n > 1.$
 $Fibonacci Spiral$
 
 
-![fibonacci Sequence](attachment:fibonacci-2.png)
+![fibonacci Sequence](attachment:fibonacci.png)
