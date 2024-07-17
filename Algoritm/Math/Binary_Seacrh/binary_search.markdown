@@ -11,7 +11,8 @@ In other words binary search:
   - If the target value is greater than the element, the search continues in the upper half of the array. 
 - By doing this, the algorithm eliminates the half in which the target value cannot lie in each iteration.
 
-Ginen: Array $X^{n-1 (elements)}_{0}$ sorted such as $X_{0} \le X_{1} \le X_{2} \le \dots \le X_{n - 1}$ and terget value $T$ let's find value $T$ in $X^{n-1 (elements)}_{0}$.
+Ginen: Array $X^{n-1 (elements)}_{0}$ 
+sorted such as $X_{0} \le X_{1} \le X_{2} \le \dots \le X_{n - 1}$ and terget value $T$ let's find value $T$ in $X^{n-1 (elements)}_{0}$.
 -  set $S$ as start_index, $0$ and $E$ as end_index, $n - 1$
    - if $E \ge S$. $set:$ _**mid_index**_, $m$ as $S + \frac{(E - S)}{2}$ 
    - if $X_{m} = T$. $then:$  return _**mid_index**_, $m$
