@@ -22,4 +22,4 @@ Ginen: Array $X^{n-1 (elements)}_{0}$ sorted such as $X_{0} \le X_{1} \le X_{2} 
 - Note:
    - While it is possible to perform binary search using _**for-loop**_ and compare each number, the sequential search (binary search) is efficient, especially if the list is long.
  
-![Binary Search Code](filename:binary_search_code.png)
+![Binary Search Code](images/binary_search_code.png)
