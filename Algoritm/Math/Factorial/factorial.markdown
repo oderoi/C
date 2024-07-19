@@ -14,3 +14,5 @@ $n! = n$ . $(n - 1)!$
 $n! = \prod^{n}_{i = 1} i.$
 
 example: $5! = 5 . 4! = 5.4.3! = 120$
+
+![factorial in c](images/factorial.png)
