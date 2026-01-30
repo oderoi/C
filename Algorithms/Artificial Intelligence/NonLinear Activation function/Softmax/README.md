@@ -58,7 +58,6 @@ Disadvantages
 	3.	Not Suitable for Very Deep Networks:
 	•	While tanh works well for shallow networks, its susceptibility to vanishing gradients makes it less useful in deep neural networks where many layers of activation functions are applied.
 
-
 Alternatives to tanh
 
 	1.	Sigmoid:
